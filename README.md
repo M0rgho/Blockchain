@@ -13,7 +13,7 @@ Blockchain also prevents adding unsigned or impossible transactions (paying some
 **Messages are signed by SHA256**
 
 ### Output
-The blockchain writes it content to the standard output.
+The blockchain writes its content to the standard output.
 
 An example block:
 ```
